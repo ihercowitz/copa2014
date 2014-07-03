@@ -22,7 +22,7 @@ A lista: https://gist.github.com/pbalduino/aa9ffaed4f7a13da2fb8"
 Output:
 
 | :team | :win | :draw | :los | :goals | :points |
-|-------+------+-------+------+--------+---------|
+|-------|------|-------|------|--------|---------|
 |  :hol |    3 |     0 |    0 |     10 |       9 |
 |  :col |    3 |     0 |    0 |      9 |       9 |
 |  :arg |    3 |     0 |    0 |      6 |       9 |
