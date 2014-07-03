@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Desafio Copa 2014
 
 Desafio Copa 2014 proposto pelo Plínio Balduino (pbalduino):
@@ -13,11 +12,12 @@ Pontuação (vitorias * 3 + empates), saldo de gols, gols pro e confronto direto
 A lista: https://gist.github.com/pbalduino/aa9ffaed4f7a13da2fb8"
 
 
-## Usage
-lein repl
-> (use 'copa2014.core)
-> (statistics matches)
-
+## Como usar
+```
+   lein repl
+   > (use 'copa2014.core)
+   > (statistics matches)
+```
 
 Output:
 
@@ -55,7 +55,4 @@ Output:
 |  :aus |    0 |     0 |    3 |      3 |       0 |
 |  :cam |    0 |     0 |    3 |      1 |       0 |
 |  :hon |    0 |     0 |    3 |      1 |       0 |
-=======
-copa2014
-========
->>>>>>> 14ac8ee7fb91a2597800d5da7077505796e40ca5
+
