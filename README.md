@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desafio Copa 2014
 
 Desafio Copa 2014 proposto pelo Plínio Balduino (pbalduino):
@@ -54,3 +55,7 @@ Output:
 |  :aus |    0 |     0 |    3 |      3 |       0 |
 |  :cam |    0 |     0 |    3 |      1 |       0 |
 |  :hon |    0 |     0 |    3 |      1 |       0 |
+=======
+copa2014
+========
+>>>>>>> 14ac8ee7fb91a2597800d5da7077505796e40ca5
